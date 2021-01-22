@@ -1,0 +1,19 @@
+.TodoItem {
+
+}
+.TodoItem__Title {
+}
+
+.TodoItem__Completed {
+    text-decoration: line-through ;
+}
+.MuiListItem-root.TodoItem {
+    display: flex;
+    justify-content: space-between;
+}
+.TodoItem__ButtonWrap {
+    display: flex;
+}
+.Dialog .MuiDialog-paperWidthSm{
+    width: 100%;
+}

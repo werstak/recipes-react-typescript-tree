@@ -1,0 +1,9 @@
+.Form form{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.Form__input {
+    flex-grow: 1;
+}

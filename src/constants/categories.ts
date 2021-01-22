@@ -1,0 +1,10 @@
+export const GET_CATEGORIES = 'categories/GET_CATEGORIES';
+export const SET_CATEGORIES = 'categories/SET_CATEGORIES';
+export const CREATE_CATEGORY = 'categories/CREATE_CATEGORY';
+export const SET_CATEGORY = 'categories/SET_CATEGORY';
+export const UPDATE_CATEGORY = 'categories/UPDATE_CATEGORY';
+export const SET_UPDATED_CATEGORY = 'categories/SET_UPDATED_CATEGORY';
+export const DELETE_CATEGORY = 'categories/DELETE_CATEGORY';
+export const REMOVE_CATEGORY = 'categories/REMOVE_CATEGORY';
+export const GET_CATEGORIES_NESTED = 'categories/GET_CATEGORIES_NESTED';
+export const SET_CATEGORIES_NESTED = 'categories/SET_CATEGORIES_NESTED';
